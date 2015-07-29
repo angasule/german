@@ -1,0 +1,128 @@
+to go	gehen
+fork	die Gabel
+spoon	der Löffel
+on X street	in die X Straße
+on the right side	auf der rechten seite
+very easy	ganz einfach
+approximately	ungefähr
+straight (directions)	geradeaus
+bicycle	ein Fahrrad
+around	um (+acc)
+without / except	ohne (+acc)
+for, on behalf of	für (+acc)
+around X time	gegen X Uhr (or other time)
+against / towards / contrary to	gegen (+acc)
+by / through / via / by way of	durch (+acc)
+you (formal, acc)	Sie
+them (acc)	sie
+you all (acc)	euch
+us (acc)	uns
+it (acc)	es
+her (acc)	sie
+him (acc)	ihn
+you (acc)	dich
+me (acc)	mich
+there is / there are	es gibt (+acc) "Es gibt einen Stuhl da drüben" (over there)
+ship	das Schiff
+comfortable / convenient	bequem
+famous	berühmt
+better	besser
+possibilities	die Möglichkeiten
+beginning	der Anfang
+view	der Blick
+high	hoch
+dessert	Nachtisch
+page	Seite
+one half	einhalb
+to live (permanently)	leben
+congratulations	Glückwünsche
+to dance	tanzen
+people (in general)	die Leute
+belongs	gehört
+gift	das Geschenk
+excuses	Entschuldigungen
+especially	besonders
+most times	meistens
+time	die Zeit
+important	wichtig
+for example	zum Beispiel (z.b.)
+day before yesterday	vorgestern
+vacation, holiday	die Ferien
+yesterday	gestern
+your (informal, plural)	euer (m, n) / eure (f, pl) / euren (m, acc)
+their	ihr (m, n) / ihre (f, pl) / ihren (m, acc)
+his, its	sein (m, n) / seine (f, pl) / seinen (m, acc)
+her	ihr (m, n) / ihre (f, pl) / ihren (m, acc)
+our	unser (m, n) / unsere (f, pl) / unseren (m, acc)
+they / you were	sie / Sie waren
+my	mein (m, n) / meine (f, pl) / meinen (m, acc)
+mine	meiner (m) / meins (n) / meine (f, pl) / meinen (m, acc)
+your	dein (m, n) / deine (f, pl) / deinen (m, acc)
+he / she / it was	er / sie / es war
+we were	wir waren
+you were (informal, plural)	ihr wart
+week	die Woche
+I was	ich war
+you (fam) were	du warst
+I was born in 1982	Ich bin neunzehn hundert zwei und achtzig geboren
+on the	am
+month	der Monat
+to sleep	schlafen
+then	dann
+already	schon
+education	die Bildung / die Ausbildung (training)
+at	bei
+divorced	geschieden
+to invite	einladen
+right (direction)	rechts
+sister	die Schwester / die Schwestern (pl)
+whole, all the way, entire (adj)	ganz (adj)
+married	verheiratet
+brother	der Bruder / die Brüder (pl)
+left (direction)	links
+siblings	die Geschiwster
+parents	die Eltern
+image/photo	das Bild
+last	letzte
+birthday	Geburtstag
+tenth	zehnte
+eleventh	elfte
+twelth	zwölfte
+twentieth	zwanzigste
+ninth	neunte
+sixth	sechste
+seventh	siebte
+eighth	achte
+fourth	vierte
+fifth	fünfte
+third	dritte
+second	zweite
+first	erste
+almost always	fast immer
+almost	fast
+to take care of the household	machen Haushalt
+homework	Hausaufgaben
+household	Haushalt
+after	danach
+difficult	schwer
+separated	getrennt
+alone	allein
+day trip / excusion	der Ausflug
+married couple	das Ehepaar / die Ehepaare (pl)
+to raise	erziehen
+between	zwischen
+husband	der Ehemann
+single people	Alleinstende
+sometimes	manchmal
+community	gemeinschaft
+bed	das Bett
+boring	langweilig
+son	Sohn
+daughter	Tochter
+to say	sagen
+excuse me entschuldigung
+city	Stadt
+life	leben
+at/on	im
+free	frei
+once	einmal
