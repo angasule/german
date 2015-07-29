@@ -1,0 +1,256 @@
+to go	gehen
+gehen	to go
+fork	die Gabel
+die Gabel	fork
+spoon	der Löffel
+der Löffel	spoon
+on X street	in die X Straße
+in die X Straße	on X street
+on the right side	auf der rechten seite
+auf der rechten seite	on the right side
+very easy	ganz einfach
+ganz einfach	very easy
+approximately	ungefähr
+ungefähr	approximately
+straight (directions)	geradeaus
+geradeaus	straight (directions)
+bicycle	ein Fahrrad
+ein Fahrrad	bicycle
+around	um (+acc)
+um (+acc)	around
+without / except	ohne (+acc)
+ohne (+acc)	without / except
+for, on behalf of	für (+acc)
+für (+acc)	for, on behalf of
+around X time	gegen X Uhr (or other time)
+gegen X Uhr (or other time)	around X time
+against / towards / contrary to	gegen (+acc)
+gegen (+acc)	against / towards / contrary to
+by / through / via / by way of	durch (+acc)
+durch (+acc)	by / through / via / by way of
+you (formal, acc)	Sie
+Sie	you (formal, acc)
+them (acc)	sie
+sie	them (acc)
+you all (acc)	euch
+euch	you all (acc)
+us (acc)	uns
+uns	us (acc)
+it (acc)	es
+es	it (acc)
+her (acc)	sie
+sie	her (acc)
+him (acc)	ihn
+ihn	him (acc)
+you (acc)	dich
+dich	you (acc)
+me (acc)	mich
+mich	me (acc)
+there is / there are	es gibt (+acc) "Es gibt einen Stuhl da drüben" (over there)
+es gibt (+acc) "Es gibt einen Stuhl da drüben" (over there)	there is / there are
+ship	das Schiff
+das Schiff	ship
+comfortable / convenient	bequem
+bequem	comfortable / convenient
+famous	berühmt
+berühmt	famous
+better	besser
+besser	better
+possibilities	die Möglichkeiten
+die Möglichkeiten	possibilities
+beginning	der Anfang
+der Anfang	beginning
+view	der Blick
+der Blick	view
+high	hoch
+hoch	high
+dessert	Nachtisch
+Nachtisch	dessert
+page	Seite
+Seite	page
+one half	einhalb
+einhalb	one half
+to live (permanently)	leben
+leben	to live (permanently)
+congratulations	Glückwünsche
+Glückwünsche	congratulations
+to dance	tanzen
+tanzen	to dance
+people (in general)	die Leute
+die Leute	people (in general)
+belongs	gehört
+gehört	belongs
+gift	das Geschenk
+das Geschenk	gift
+excuses	Entschuldigungen
+Entschuldigungen	excuses
+especially	besonders
+besonders	especially
+most times	meistens
+meistens	most times
+time	die Zeit
+die Zeit	time
+important	wichtig
+wichtig	important
+for example	zum Beispiel (z.b.)
+zum Beispiel (z.b.)	for example
+day before yesterday	vorgestern
+vorgestern	day before yesterday
+vacation, holiday	die Ferien
+die Ferien	vacation, holiday
+yesterday	gestern
+gestern	yesterday
+your (informal, plural)	euer (m, n) / eure (f, pl) / euren (m, acc)
+euer (m, n) / eure (f, pl) / euren (m, acc)	your (informal, plural)
+their	ihr (m, n) / ihre (f, pl) / ihren (m, acc)
+ihr (m, n) / ihre (f, pl) / ihren (m, acc)	their
+his, its	sein (m, n) / seine (f, pl) / seinen (m, acc)
+sein (m, n) / seine (f, pl) / seinen (m, acc)	his, its
+her	ihr (m, n) / ihre (f, pl) / ihren (m, acc)
+ihr (m, n) / ihre (f, pl) / ihren (m, acc)	her
+our	unser (m, n) / unsere (f, pl) / unseren (m, acc)
+unser (m, n) / unsere (f, pl) / unseren (m, acc)	our
+they / you were	sie / Sie waren
+sie / Sie waren	they / you were
+my	mein (m, n) / meine (f, pl) / meinen (m, acc)
+mein (m, n) / meine (f, pl) / meinen (m, acc)	my
+mine	meiner (m) / meins (n) / meine (f, pl) / meinen (m, acc)
+meiner (m) / meins (n) / meine (f, pl) / meinen (m, acc)	mine
+your	dein (m, n) / deine (f, pl) / deinen (m, acc)
+dein (m, n) / deine (f, pl) / deinen (m, acc)	your
+he / she / it was	er / sie / es war
+er / sie / es war	he / she / it was
+we were	wir waren
+wir waren	we were
+you were (informal, plural)	ihr wart
+ihr wart	you were (informal, plural)
+week	die Woche
+die Woche	week
+I was	ich war
+ich war	I was
+you (fam) were	du warst
+du warst	you (fam) were
+I was born in 1982	Ich bin neunzehn hundert zwei und achtzig geboren
+Ich bin neunzehn hundert zwei und achtzig geboren	I was born in 1982
+on the	am
+am	on the
+month	der Monat
+der Monat	month
+to sleep	schlafen
+schlafen	to sleep
+then	dann
+dann	then
+already	schon
+schon	already
+education	die Bildung / die Ausbildung (training)
+die Bildung / die Ausbildung (training)	education
+at	bei
+bei	at
+divorced	geschieden
+geschieden	divorced
+to invite	einladen
+einladen	to invite
+right (direction)	rechts
+rechts	right (direction)
+sister	die Schwester / die Schwestern (pl)
+die Schwester / die Schwestern (pl)	sister
+whole, all the way, entire (adj)	ganz (adj)
+ganz (adj)	whole, all the way, entire (adj)
+married	verheiratet
+verheiratet	married
+brother	der Bruder / die Brüder (pl)
+der Bruder / die Brüder (pl)	brother
+left (direction)	links
+links	left (direction)
+siblings	die Geschiwster
+die Geschiwster	siblings
+parents	die Eltern
+die Eltern	parents
+image/photo	das Bild
+das Bild	image/photo
+last	letzte
+letzte	last
+birthday	Geburtstag
+Geburtstag	birthday
+tenth	zehnte
+zehnte	tenth
+eleventh	elfte
+elfte	eleventh
+twelth	zwölfte
+zwölfte	twelth
+twentieth	zwanzigste
+zwanzigste	twentieth
+ninth	neunte
+neunte	ninth
+sixth	sechste
+sechste	sixth
+seventh	siebte
+siebte	seventh
+eighth	achte
+achte	eighth
+fourth	vierte
+vierte	fourth
+fifth	fünfte
+fünfte	fifth
+third	dritte
+dritte	third
+second	zweite
+zweite	second
+first	erste
+erste	first
+almost always	fast immer
+fast immer	almost always
+almost	fast
+fast	almost
+to take care of the household	machen Haushalt
+machen Haushalt	to take care of the household
+homework	Hausaufgaben
+Hausaufgaben	homework
+household	Haushalt
+Haushalt	household
+after	danach
+danach	after
+difficult	schwer
+schwer	difficult
+separated	getrennt
+getrennt	separated
+alone	allein
+allein	alone
+day trip / excusion	der Ausflug
+der Ausflug	day trip / excusion
+married couple	das Ehepaar / die Ehepaare (pl)
+das Ehepaar / die Ehepaare (pl)	married couple
+to raise	erziehen
+erziehen	to raise
+between	zwischen
+zwischen	between
+husband	der Ehemann
+der Ehemann	husband
+single people	Alleinstende
+Alleinstende	single people
+sometimes	manchmal
+manchmal	sometimes
+community	gemeinschaft
+gemeinschaft	community
+bed	das Bett
+das Bett	bed
+boring	langweilig
+langweilig	boring
+son	Sohn
+Sohn	son
+daughter	Tochter
+Tochter	daughter
+to say	sagen
+sagen	to say
+excuse me	entschuldigung
+entschuldigung	excuse me
+city	Stadt
+Stadt	city
+life	leben
+leben	life
+at/on	im
+im	at/on
+free	frei
+frei	free
+once	einmal
+einmal	once
