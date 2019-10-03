@@ -84,7 +84,7 @@ siblings	die Geschiwster
 parents	die Eltern
 image/photo	das Bild
 last	letzte
-birthday	Geburtstag
+birthday	der Geburtstag
 tenth	zehnte
 eleventh	elfte
 twelth	zwölfte

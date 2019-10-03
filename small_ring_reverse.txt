@@ -170,8 +170,8 @@ image/photo	das Bild
 das Bild	image/photo
 last	letzte
 letzte	last
-birthday	Geburtstag
-Geburtstag	birthday
+birthday	der Geburtstag
+der Geburtstag	birthday
 tenth	zehnte
 zehnte	tenth
 eleventh	elfte
